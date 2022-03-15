@@ -1,0 +1,22 @@
+{
+  "name": "animated-header-collapsable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npaul2173/animated-header-collapsable.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Nabendu paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npaul2173/animated-header-collapsable/issues"
+  },
+  "homepage": "https://github.com/npaul2173/animated-header-collapsable#readme"
+}
